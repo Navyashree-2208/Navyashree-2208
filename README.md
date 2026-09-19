@@ -21,6 +21,10 @@ Full-Stack Development, and Machine Learning.
 
 ---
 
+## 📄 Resume
+
+[![Resume](https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume/Navyashree_Resume.pdf)
+
 ## 🛠️ Tech Stack
 
 ## 💻 Programming
@@ -79,8 +83,8 @@ Node.js, REST APIs and databases.
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/navyashree22/))
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)]([https://github.com/YOUR_USERNAME](https://github.com/Navyashree-2208))
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-purple?style=for-the-badge)](YOUR_PORTFOLIO_URL)
