@@ -88,4 +88,4 @@ Node.js, REST APIs and databases.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Navyashree-2208)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-purple?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-purple?style=for-the-badge&logo=googlechrome&logoColor=white)]( https://navyashree-portfolio-xwx2.onrender.com)
