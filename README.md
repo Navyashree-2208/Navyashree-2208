@@ -23,7 +23,7 @@ Full-Stack Development, and Machine Learning.
 
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/Resume-View-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Navya%20r.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Navya.pdf)
 
 ## 🛠️ Tech Stack
 
