@@ -79,10 +79,10 @@ prediction and data analysis.
 ### 🌐 Full-Stack Web Projects
 Web applications developed using React.js,
 Node.js, REST APIs and databases.
--->
+
 
 ---
-
+-->
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navyashree22/)
