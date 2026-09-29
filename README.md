@@ -65,7 +65,7 @@ Full-Stack Development, and Machine Learning.
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
+<!--
 ## 📌 Projects
 
 ### 🌱 Urban Agriculture AI Assistant
@@ -79,6 +79,7 @@ prediction and data analysis.
 ### 🌐 Full-Stack Web Projects
 Web applications developed using React.js,
 Node.js, REST APIs and databases.
+-->
 
 ---
 
